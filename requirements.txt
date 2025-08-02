@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain_huggingface
+chromadb
+bs4
+sentence-transformers
+ipykernel
+langchain-chroma
+hf_xet
